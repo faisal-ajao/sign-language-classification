@@ -19,7 +19,7 @@ It classifies hand signs representing digits **0–9** using a dataset prepared 
 
 ```bash
 # Clone the repository
-git clone https://github.com/AjaoFaisal/sign-language-classification.git
+git clone https://github.com/faisal-ajao/sign-language-classification.git
 cd sign-language-classification
 
 # (Optional) Create a virtual environment
